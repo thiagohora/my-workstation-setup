@@ -13,5 +13,6 @@ Here you will find a list with the tools that are going to be installed.
 - Chromium Webbrowser
 - Spring-boot CLI
 - Git script to show current branch on terminal
+- Zoom
 
 Maybe when you run this script the urls used to install the tools may be out of date, if you get problems with this, you can update the variables of the script with the new urls.
